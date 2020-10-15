@@ -131,3 +131,4 @@ dmypy.json
 #Excel Lock
 .xlsx#
 Data/.~lock.Resumenes.xlsx#
+Data/.~lock.ResumenesEstudiantes.csv#
