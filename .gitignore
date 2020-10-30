@@ -132,3 +132,9 @@ dmypy.json
 .xlsx#
 Data/.~lock.Resumenes.xlsx#
 Data/.~lock.ResumenesEstudiantes.csv#
+Notebooks_W2V/Modelos/
+
+
+#VSCOde
+
+.vscode/
